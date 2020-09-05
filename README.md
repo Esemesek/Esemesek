@@ -1,4 +1,10 @@
-### Hi there 👋
+I make stuff sometimes.
+
+### 🔭 Side projects 🔭
+
+⚡ https://keysmash.wtf ⚡
+
+_...More yet to come..._
 
 <!--
 **Esemesek/esemesek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
